@@ -4,10 +4,35 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Random Chicken Fact</title>
+    <style>
+        body {
+            background-image: url('chicken_background.jpg'); /* Replace 'chicken_background.jpg' with your actual image file */
+            background-size: cover;
+            background-repeat: no-repeat;
+            color: white;
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: rgba(0, 0, 0, 0.5);
+            padding: 20px;
+            border-radius: 10px;
+        }
+        h1 {
+            text-align: center;
+        }
+        p {
+            font-size: 18px;
+        }
+    </style>
 </head>
 <body>
-    <h1>Random Chicken Fact</h1>
-    <p id="chickenFact"></p>
+    <div class="container">
+        <h1>Random Chicken Fact</h1>
+        <p id="chickenFact"></p>
+    </div>
 
     <script>
         // Array of chicken facts
@@ -31,4 +56,6 @@
     </script>
 </body>
 </html>
+
+            "C
 
