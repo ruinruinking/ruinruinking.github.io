@@ -43,6 +43,10 @@
             "Chickens are descended from dinosaurs and are the closest living relatives to the Tyrannosaurus rex.",
             "Chickens dream while they sleep.",
             "Chickens have been domesticated for thousands of years, with the oldest known chicken bones found in Israel dating back to around 4000 BC."
+            "How did you find this?"
+            "ur def not going to find my email im gonna post in here, WHAT EDITOR CUT THAT OUT!"
+            "ethomas@theadminplayz.store"
+            "dont conatct support with that button on that botton right screen, it sends me a email :("
         ];
 
         // Function to display a random chicken fact
